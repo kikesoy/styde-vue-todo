@@ -1,0 +1,8 @@
+.tasks .completed {
+  color: #999;
+  text-decoration: line-through;
+}
+.tasks .completed a,
+.tasks .completed i {
+  color: inherit;
+}
